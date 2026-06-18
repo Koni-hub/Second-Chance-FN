@@ -19,6 +19,10 @@
 		{
 			"Name": "AIAssistant",
 			"Enabled": true
+		},
+		{
+			"Name": "LudusAI",
+			"Enabled": true
 		}
 	]
 }
